@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Antara News</string>
+    <string name="news_title">News Title</string>
+    <string name="published_date">Published Date</string>
+    <string name="description">Description</string>
+</resources>
